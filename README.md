@@ -1,24 +1,47 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# 🗽 Freddy Haug | NYC Tech & Hackathons
+
+[![GitHub](https://img.shields.io/badge/GitHub-Haugf-000?style=flat-square&logo=github)](https://github.com/Haugf)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-38-0366d6?style=flat-square)](https://github.com/Haugf?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Haugf?label=Followers&style=flat-square&logo=github)](https://github.com/Haugf)
+[![Twitter](https://img.shields.io/badge/Twitter-@Haugfreddy-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Haugfreddy)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+👋 **Yo, I'm Freddy!** I'm a **Senior Software Engineer** at **Capital One**, where I build robust financial technology solutions. When I'm not working on enterprise systems, I'm coaching the next generation of hackers through **Major League Hacking** right here in the digital heart of NYC! 🏙️
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- � **Location:** New York City (Spirit & Tech Hub)
+- 🎓 **Education:** University of Central Florida — Computer Science
+- � **Experience:** 8+ years in software engineering & hackathon community building
+- 📧 **Email:** [haug.freddy01@gmail.com](mailto:haug.freddy01@gmail.com)
+- � **Portfolio:** [haugf.com](https://haugf.com)
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Career Highlights
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🚀 Senior Software Engineer | Capital One | Feb 2025 — Present |
+| 🏆 Coach | Major League Hacking | Apr 2025 — Present |
+| 💻 Software Engineer | Planalytics | Jun 2021 — Jan 2025 |
+
+## GitHub Stats
+
+- 📦 **Public Repositories:** 38
+- 🔒 **Private Repositories:** 11
+- 👥 **Followers:** 17
+- 📌 **Following:** 50
+- 🎯 **Member Since:** May 2017
+
+## Featured Interests
+
+- 🔧 **Tech Stack:** Python, JavaScript/TypeScript, Java, Web Services
+- 🎯 **Focus:** Full-Stack Development, SaaS, Hackathon Innovation
+- ❤️ **Passions:** Building community, mentoring developers, NYC tech scene
+
+## Let's Connect
+
+📍 Find me at hackathons or visit my [GitHub](https://github.com/Haugf) for more! Always down to chat about tech, hackathons, and the NYC startup scene.
+
+---
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
